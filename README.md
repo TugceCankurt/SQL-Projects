@@ -24,3 +24,9 @@
 **Code and details :** [.ipynp](https://github.com/TugceCankurt/SQL-Projects/blob/main/Analyzing%20Unicorn%20Companies.ipynb)   <br>
 **Description :** Using a PostgreSQL database I analyzed information about unicorn companies worth over $1 billion! I found out which industries have the highest average valuation and then zoomed in on these to determine how many new unicorns have been produced annually between 2019 and 2021!   <br>
 **DBMS :** PostgreSQL
+
+  ### <ins>Analyzing Motorcycle Part Sales
+  **Code and details :** [.ipynp](https://github.com/TugceCankurt/SQL-Projects/blob/main/Analyzing%20Motorcycle%20Part%20Sales.ipynb)  <br>
+  **Description :** In this project, I dug into the data to understand revenue streams. I built up a query to find out how much net revenue they are generating across their product lines, segregating by date and warehouse.  <br>
+  **DBMS :** PostgreSQL
+  
