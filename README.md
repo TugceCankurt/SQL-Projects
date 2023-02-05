@@ -6,5 +6,5 @@
 **DBMS :** PostgreSQL
   
  ### <ins>Analyzing American Baby Name Trends
- **Code and details :*
+ **Code and details :* [.ipynp](https://github.com/TugceCankurt/SQL-Projects/blob/main/Analyzing%20American%20Baby%20Name%20Trends.ipynb)      <br>
 **Description :** In this project, I used data published by the U.S. Social Security Administration spanning over a hundred years to understand American baby name tastes. The ranking, grouping, joining, ordering, and pattern-matching skills I used in this project are broadly applicable: understanding changing tastes is a key competency for businesses.
