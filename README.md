@@ -30,3 +30,10 @@
   **Description :** In this project, I dug into the data to understand revenue streams. I built up a query to find out how much net revenue they are generating across their product lines, segregating by date and warehouse.  <br>
   **DBMS :** PostgreSQL
   
+  ### <ins>Analyzing Students' Mental Health
+  **Code and details :** [.ipynp](https://github.com/TugceCankurt/SQL-Projects/blob/main/Analyzing%20Students'%20Mental%20Health.ipynb) <br>
+  **Description :** In this project, I used my PostgreSQL skills to explore the students database from an international university and find out what factors may impact students' mental health.  <br>
+  **DBMS :** PostgreSQL
+  
+
+  
