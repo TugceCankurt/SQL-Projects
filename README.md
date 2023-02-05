@@ -20,4 +20,7 @@
 **Description :** Product emissions make up more than 75% of global emissions. In this project, I explored which industries are the worst offender.
 **DBMS :** PostgreSQL
 
-
+ ### <ins>Analyzing Unicorn Companies
+**Code and details :* [.ipynp](https://github.com/TugceCankurt/SQL-Projects/blob/main/Analyzing%20Unicorn%20Companies.ipynb)   <br>
+**Description :** Using a PostgreSQL database I analyzed information about unicorn companies worth over $1 billion! I found out which industries have the highest average valuation and then zoomed in on these to determine how many new unicorns have been produced annually between 2019 and 2021!
+**DBMS :** PostgreSQL
