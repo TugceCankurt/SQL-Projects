@@ -15,4 +15,9 @@
 **Description :** In this project, I worked with a SQL database containing test performances from NYC's public schools. I looked at how performance varies by borough, identified how many schools fail to report information, and found the top ten performing schools across the city.  <br>
 **DBMS :** PostgreSQL
 
+ ### <ins>Analyzing Industry Carbon Emissions
+**Code and details :* [.ipynp](https://github.com/TugceCankurt/SQL-Projects/blob/main/Analyzing%20Industry%20Carbon%20Emissions.ipynb)  <br>
+**Description :** Product emissions make up more than 75% of global emissions. In this project, I explored which industries are the worst offender.
+**DBMS :** PostgreSQL
+
 
