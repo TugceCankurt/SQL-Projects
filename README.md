@@ -6,21 +6,21 @@
 **DBMS :** PostgreSQL
   
  ### <ins>Analyzing American Baby Name Trends
- **Code and details :* [.ipynp](https://github.com/TugceCankurt/SQL-Projects/blob/main/Analyzing%20American%20Baby%20Name%20Trends.ipynb)      <br>
+ **Code and details :** [.ipynp](https://github.com/TugceCankurt/SQL-Projects/blob/main/Analyzing%20American%20Baby%20Name%20Trends.ipynb)      <br>
 **Description :** In this project, I used data published by the U.S. Social Security Administration spanning over a hundred years to understand American baby name tastes. The ranking, grouping, joining, ordering, and pattern-matching skills I used in this project are broadly applicable: understanding changing tastes is a key competency for businesses. <br>
 **DBMS :** PostgreSQL
 
  ### <ins>Analyzing NYC Public School Test Result Scores
- **Code and details :* [.ipynp](https://github.com/TugceCankurt/SQL-Projects/blob/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores.ipynb) <br>
+ **Code and details :** [.ipynp](https://github.com/TugceCankurt/SQL-Projects/blob/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores.ipynb) <br>
 **Description :** In this project, I worked with a SQL database containing test performances from NYC's public schools. I looked at how performance varies by borough, identified how many schools fail to report information, and found the top ten performing schools across the city.  <br>
 **DBMS :** PostgreSQL
 
  ### <ins>Analyzing Industry Carbon Emissions
-**Code and details :* [.ipynp](https://github.com/TugceCankurt/SQL-Projects/blob/main/Analyzing%20Industry%20Carbon%20Emissions.ipynb)  <br>
+**Code and details :** [.ipynp](https://github.com/TugceCankurt/SQL-Projects/blob/main/Analyzing%20Industry%20Carbon%20Emissions.ipynb)  <br>
 **Description :** Product emissions make up more than 75% of global emissions. In this project, I explored which industries are the worst offender.
 **DBMS :** PostgreSQL
 
  ### <ins>Analyzing Unicorn Companies
-**Code and details :* [.ipynp](https://github.com/TugceCankurt/SQL-Projects/blob/main/Analyzing%20Unicorn%20Companies.ipynb)   <br>
+**Code and details :** [.ipynp](https://github.com/TugceCankurt/SQL-Projects/blob/main/Analyzing%20Unicorn%20Companies.ipynb)   <br>
 **Description :** Using a PostgreSQL database I analyzed information about unicorn companies worth over $1 billion! I found out which industries have the highest average valuation and then zoomed in on these to determine how many new unicorns have been produced annually between 2019 and 2021!
 **DBMS :** PostgreSQL
